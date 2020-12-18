@@ -4,6 +4,6 @@ This is an example to build restful api using Golang.
 
 Step to run
 
-Clone the repo
-go build
-go run rest-api-golang
+1. Clone the repo
+2. go build
+3. go run sample-go-rest
